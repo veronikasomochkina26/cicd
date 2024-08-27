@@ -6,7 +6,7 @@ namespace VS.VSApp;
 
 using Microsoft.Sales.Customer;
 
-pageextension 50010 CustomerListExt extends "Customer List"
+pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
